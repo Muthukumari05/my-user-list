@@ -1,0 +1,48 @@
+.add {
+	padding: 20px;
+}
+
+.add__form {
+	border: 1px solid #ddd;
+	margin: 25px auto;
+	max-width: 400px;
+	padding: 20px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
+.add__title {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.add__link {
+	color: #2874F0;
+	font-weight: 700;
+    font-size: 20px;
+}
+
+.add__input {
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ddd;
+	
+}
+
+.add__button {
+	background-color: #119F16;
+	padding: 10px;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+
+.add__error{
+	text-align: center;
+	color: #ff0033;
+	margin-top: 10px;
+}
